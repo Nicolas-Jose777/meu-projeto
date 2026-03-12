@@ -1,5 +1,5 @@
 # meu-projeto
-projeto feito como exercicio
+projeto feito com o intuito de dizer quantas e quais tipos de notas devem ser entregues de troco
 
 import java.util.Scanner;
 
